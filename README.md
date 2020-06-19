@@ -1,4 +1,4 @@
-# lockdown-certificate-course-2
+# certificate-course
 
 
 
